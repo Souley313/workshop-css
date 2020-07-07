@@ -1,0 +1,37 @@
+body {
+	background-color: #EFECCA;
+	font-family: Helvetica, Arial;
+}
+
+h1 {
+	color: #C03000;
+}
+
+h2 {
+	color: #4BB5C1;
+}
+
+nav li {
+	border: 2px solid #660000;
+	background-color: #C03000;
+	display: inline;		
+	text-align: center;
+	margin: 2px;
+	padding: 8px;
+	
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+}
+
+li:hover, nav:focus {
+	background-color: #009900;
+}
+
+footer a {
+	text-decoration: none;
+	color: #0000FF;
+	font-weight: bold;
+}
